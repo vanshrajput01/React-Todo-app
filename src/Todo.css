@@ -1,0 +1,28 @@
+.Todo-input-containter{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Todo-input-feild{
+    padding-left: 10px;
+    border-radius: 10px;
+    font-size: large;
+    border: none;
+    width: 400px;
+    height: 60px;
+}
+
+.input-container-btn{
+    padding: 8px 35px;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 240px;
+    border: 1px solid rgb(102, 33, 102);
+    background-color:rgb(102, 33, 102);
+    color: white;
+
+}
+

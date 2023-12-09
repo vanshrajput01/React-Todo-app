@@ -1,0 +1,56 @@
+
+.Crad-main-subcontainer{
+    width: 300px;
+    height: 250px;
+    background-color: rgb(13, 13, 50);
+    border: 1px solid rgb(15, 15, 52) ;
+    border-radius: 10px;
+    
+
+}
+.Card-heading{
+    margin-left: 10px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Card-para{
+    margin-left: 10px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 18px;
+
+}
+
+.update-btn{
+    background-color: rgb(46, 46, 146);
+    border: 2px solid rgb(46, 46, 146);
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    
+   
+    display: block;
+    width: 80%;
+    margin-left: 20px;
+    padding: 10px 70px;
+    margin-bottom: 10px;
+    
+}
+
+.delete-btn{
+    background-color: rgb(46, 46, 146);
+    border: 2px solid rgb(46, 46, 146);
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    
+   
+    display: block;
+    width: 80%;
+    margin-left: 20px;
+    padding: 10px 70px;
+
+}

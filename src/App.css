@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body{
+  background-color:rgb(81, 18, 81);
+}
+
+.Card-container{
+  display: flex;
+  justify-content: space-around;
+  text-align: start;
+  width: 100vw;
+
+}
